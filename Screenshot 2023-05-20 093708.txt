@@ -1,0 +1,12 @@
+country = ‘India’ I
+city_names = df[ location’)
+
+longitude =[]
+latitude =[]
+geolocator = Nominatim(user_agent="Trips")
+
+for ¢ in city_names.values
+location = geolocator.geocode (c+, "+ country)
+latitude. append(location. latitude)
+longitude. append(location. longitude)
+

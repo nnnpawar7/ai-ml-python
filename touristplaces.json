@@ -1,0 +1,53 @@
+{
+    "Pune": [
+        {
+            "name": "Sinhagad Fort"
+        },
+        {
+            "name": "Shaniwar Wada"
+        },
+        {
+            "name": "Aga Khan Palace"
+        },
+        {
+            "name": "Rajiv Gandhi Zoological Park"
+        },
+        {
+            "name": "Shreemant Dagdusheth Halwai Ganpati Mandir"
+        }
+    ],
+    "Mumbai": [
+        {
+            "name": "Gateway Of India"
+        },
+        {
+            "name": "Chhatrapati Shivaji Maharaj Terminus"
+        },
+        {
+            "name": "Shree Siddhivinayak Temple"
+        },
+        {
+            "name": "Marine Drive"
+        },
+        {
+            "name": "Sanjay Gandhi National Park"
+        }
+    ],
+    "Nashik": [
+        {
+            "name": "Panchvati"
+        },
+        {
+            "name": "Saptashrungi"
+        },
+        {
+            "name": "Trimbakeshwar"
+        },
+        {
+            "name": "Sula Vineyard"
+        },
+        {
+            "name": "Dudhsagar falls"
+        }
+    ]
+}
